@@ -1,0 +1,29 @@
+# Project Analysis Outputs
+# All project analyses go into /projects/ folder
+# Only tracked files are ajan templates and documentation
+
+/projects/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Git
+.git/
+
+# Keep tracked:
+# /agents/ - Agent prompt templates
+# /SYSTEM_PROMPT.md - Orchestrator prompt
+# /README.md - Documentation
+# /.gitignore - This file
