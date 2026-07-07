@@ -150,7 +150,7 @@ All reports follow a standardized markdown format with:
 ## Project Organization
 
 ```
-Agent-team/
+project-analysis-agent-team/
 ├── README.md                    (This file)
 ├── SYSTEM_PROMPT.md            (Orchestration logic)
 ├── .gitignore                  (Git configuration)
@@ -170,23 +170,26 @@ Agent-team/
 │   ├── risk_analysis.md
 │   └── executive_summary.md
 │
-├── ProjectA/                   (Example project - ignored by git)
-│   ├── input.md
-│   ├── market_research.md
-│   └── [other reports]
-│
-├── ProjectB/                   (Your next project)
-│   ├── input.md
-│   └── [will be generated]
-│
-└── [more projects...]
+└── projects/                   (All project analyses)
+    ├── ProjectA/               (Ignored by git)
+    │   ├── input.md
+    │   ├── market_research.md
+    │   ├── competitor_analysis.md
+    │   ├── ... (all 13 reports)
+    │   └── dashboard.html
+    │
+    ├── ProjectB/
+    │   ├── input.md
+    │   └── [will be generated]
+    │
+    └── [more projects...]
 ```
 
 ## Getting Started
 
 1. **Create a project folder:**
    ```
-   mkdir ProjectMyIdea
+   mkdir projects/ProjectMyIdea
    ```
 
 2. **Write your idea in input.md:**
@@ -211,7 +214,7 @@ Agent-team/
 
 3. **Run analysis:**
    ```bash
-   claude "Analyze the project in Agent-team/ProjectMyIdea/ using the system orchestrator"
+   claude "Analyze the project in projects/ProjectMyIdea/ using the system orchestrator"
    ```
 
 4. **Review all reports** in your project folder
