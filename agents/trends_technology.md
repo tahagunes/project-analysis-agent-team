@@ -1,7 +1,7 @@
 # Trends & Technology Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/trends_technology.md`
+Write output to: `projects/[ProjectName]/trends_technology.md`
 
 ## Your Task
 Analyze technology trends, emerging tools, and technological landscape relevant to the project idea. Identify what's trending, what's emerging, and what's declining.

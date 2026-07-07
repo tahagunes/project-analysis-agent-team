@@ -1,7 +1,7 @@
 # Market Research Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/market_research.md`
+Write output to: `projects/[ProjectName]/market_research.md`
 
 ## Your Task
 Analyze the market opportunity for the given project idea. Research market size, growth trends, demand signals, and market dynamics.

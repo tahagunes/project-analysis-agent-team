@@ -38,8 +38,8 @@ Execute agents in this exact order. Each agent builds on previous outputs.
 - Must contain: problem statement, target user, proposed solution, differentiators, context
 
 ### Output Location
-- All outputs go to: `[ProjectName]/[agent_name].md`
-- Example: `ProjectA/competitor_analysis.md`
+- All outputs go to: `projects/[ProjectName]/[agent_name].md`
+- Example: `projects/MyProject/competitor_analysis.md`
 
 ### Agent Execution
 - Load agent prompt from: `agents/[agent_name].md`

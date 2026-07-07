@@ -1,7 +1,7 @@
 # Cost Estimation Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/cost_estimation.md`
+Write output to: `projects/[ProjectName]/cost_estimation.md`
 
 ## Your Task
 Estimate total development and operational costs. Break down costs by category and create financial projections.

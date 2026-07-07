@@ -1,7 +1,7 @@
 # Revenue Model Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/revenue_model.md`
+Write output to: `projects/[ProjectName]/revenue_model.md`
 
 ## Your Task
 Design revenue model and business economics for the project. Develop pricing strategy, revenue streams, and unit economics.

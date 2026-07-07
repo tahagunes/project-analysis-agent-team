@@ -1,7 +1,7 @@
 # Technical Architecture Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/tech_architecture.md`
+Write output to: `projects/[ProjectName]/tech_architecture.md`
 
 ## Your Task
 Design the technical architecture and technology stack for the project. Make concrete recommendations on database, programming language, frameworks, hosting, and scalability approach based on requirements and trends.

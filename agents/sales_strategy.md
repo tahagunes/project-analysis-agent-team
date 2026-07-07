@@ -1,7 +1,7 @@
 # Sales Strategy Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/sales_strategy.md`
+Write output to: `projects/[ProjectName]/sales_strategy.md`
 
 ## Your Task
 Develop go-to-market (GTM) and sales strategy. Create a roadmap for how to reach customers, acquire them, and grow the business.

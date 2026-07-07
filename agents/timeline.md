@@ -1,7 +1,7 @@
 # Timeline Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/timeline.md`
+Write output to: `projects/[ProjectName]/timeline.md`
 
 ## Your Task
 Create detailed timeline and project schedule. Define phases, milestones, and realistic duration for building and launching the product.

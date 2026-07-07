@@ -1,7 +1,7 @@
 # Idea Validation Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/idea_validation.md`
+Write output to: `projects/[ProjectName]/idea_validation.md`
 
 ## Your Task
 Validate the project idea's core assumptions. Assess problem-solution fit, market need validation, and idea viability.

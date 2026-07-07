@@ -1,7 +1,7 @@
 # Risk Analysis Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/risk_analysis.md`
+Write output to: `projects/[ProjectName]/risk_analysis.md`
 
 ## Your Task
 Identify and analyze risks to project success. Create risk mitigation strategies and contingency plans.

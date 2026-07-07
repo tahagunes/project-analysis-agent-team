@@ -1,7 +1,7 @@
 # Roadmap Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/roadmap.md`
+Write output to: `projects/[ProjectName]/roadmap.md`
 
 ## Your Task
 Create product and development roadmap. Define MVP scope, phases, features, and milestones for building and launching the product.

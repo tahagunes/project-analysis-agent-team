@@ -1,8 +1,8 @@
 # Executive Summary Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/executive_summary.md` (Markdown report)
-Generate HTML at: `[PROJECT_PATH]/dashboard.html` (Interactive dashboard)
+Write output to: `projects/[ProjectName]/executive_summary.md` (Markdown report)
+Generate HTML at: `projects/[ProjectName]/dashboard.html` (Interactive dashboard)
 
 ---
 

@@ -1,7 +1,7 @@
 # Customer Analysis Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/customer_analysis.md`
+Write output to: `projects/[ProjectName]/customer_analysis.md`
 
 ## Your Task
 Define and analyze target customers. Build customer personas, understand behaviors, needs, and identify the ideal customer profile.

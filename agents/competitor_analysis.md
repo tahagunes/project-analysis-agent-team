@@ -1,7 +1,7 @@
 # Competitor Analysis Agent
 
 ## Output File Location
-Write output to: `[PROJECT_PATH]/competitor_analysis.md`
+Write output to: `projects/[ProjectName]/competitor_analysis.md`
 
 ## Your Task
 Identify and analyze 0-3 most relevant competitors. Evaluate their strengths, weaknesses, market positioning, and technology choices.
